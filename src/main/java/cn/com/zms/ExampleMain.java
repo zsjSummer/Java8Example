@@ -9,6 +9,6 @@ package cn.com.zms;
  **/
 public class ExampleMain {
 	public static void main(String[] args) {
-		
+
 	}
 }
